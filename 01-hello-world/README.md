@@ -306,12 +306,5 @@ Great job completing your first Flutter app! Next, you'll learn about:
 
 ---
 
-## 📱 Screenshots
-
-When you complete this lesson, your app should look something like this:
-- Clean, colorful design
-- Custom text and styling
-- Professional app bar
-- Beautiful gradient background
 
 **Remember**: The most important thing is that YOUR app reflects YOUR style! 🎨
