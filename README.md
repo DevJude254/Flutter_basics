@@ -275,22 +275,14 @@ We welcome contributions! Here's how you can help:
 ## 🐛 Issues & Support
 
 Found a bug or have a question?
-1. Check existing [Issues](https://github.com/yourusername/flutter-basics/issues)
+1. Check existing [Issues](https://github.com/DevJude254/flutter-basics/issues)
 2. Create a new issue with:
    - Clear description
    - Steps to reproduce
    - Expected vs actual behavior
    - Screenshots (if applicable)
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Flutter team for creating an amazing framework
-- All contributors who help improve this repository
-- The Flutter community for continuous support and inspiration
 
 ## 🎊 Getting Started Now!
 
