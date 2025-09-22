@@ -275,7 +275,7 @@ We welcome contributions! Here's how you can help:
 ## 🐛 Issues & Support
 
 Found a bug or have a question?
-1. Check existing [Issues](https://github.com/DevJude254/flutter-basics/issues)
+1. Check existing [Issues](https://github.com/DevJude254/Flutter-basics/issues)
 2. Create a new issue with:
    - Clear description
    - Steps to reproduce
